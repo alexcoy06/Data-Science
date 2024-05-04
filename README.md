@@ -10,6 +10,7 @@ I'm currently undergoing an intensive data science bootcamp with TripleTen, wher
 
 - **Project1:** I'll analyze a dataset of movies and shows with Python and Pandas to showcase the highly rated programs from the Golden Age of television.
 - **Project2:** The task entails analyzing a modified Instacart dataset for insights into customer shopping habits, involving data cleaning, and addressing key questions.
+- **Project3:** 
 
 ## Deployment
 
