@@ -8,9 +8,9 @@ I'm currently undergoing an intensive data science bootcamp with TripleTen, wher
 
 ## Repository Structure
 
-- **Project1:** I'll analyze a dataset of movies and shows with Python and Pandas to showcase the highly rated programs from the Golden Age of television.
+- **Project1:** Tasked to analyze a dataset of movies and shows with Python and Pandas to showcase the highly rated programs from the Golden Age of television.
 - **Project2:** The task entails analyzing a modified Instacart dataset for insights into customer shopping habits, involving data cleaning, and addressing key questions.
-- **Project3:** 
+- **Project3:** Tasked to analyze 2018 data from 500 clients to determine whether the Surf or Ultimate prepaid plan generates more revenue, aiming to adjust the advertising budget accordingly.
 
 ## Deployment
 
@@ -22,7 +22,16 @@ For your convenience, I have the **Jupyter Notebook** directly connected to a **
 
 ## Improvement
 
-Will be posted as needed.
+Any and all improvements will be displayed here as new methods and insights are discovered.
+
+5/4
+I gained a better understanding of Git, GitHub, and how repositories work. In my previous attempt at adding an interactive link, it resulted in a branch that did not merge correctly when I attempted a commit. Now, I understand the importance of checking the status of the GitHub repository and ensuring to fetch for any changes so that there are no conflicting files or unnecessary branches.
+
+5/13
+I added a plain test file that can be adapted to any programming language for experimenting with different code instances outside my projects.
+
+5/19
+I have also deepened my understanding of Python. My code can now run seamlessly without needing to input different variables when loading CSV files, and the entire program can be executed in any environment, as long as the Internet is available.
 
 ## Feedback
 
