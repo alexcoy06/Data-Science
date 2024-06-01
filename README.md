@@ -1,6 +1,11 @@
 # TripleTen Projects
 
-![Golden Age](./Project%201/img/golden-age.png)
+<!-- personal notes
+open markdown to the side: crt + k  v 
+Activate your environment: .venv\Scripts\Activate.ps1
+-->
+
+![Golden Age](./src/img/golden-age.png)
 
 ## About Me
 
@@ -11,6 +16,7 @@ I'm currently undergoing an intensive data science bootcamp with TripleTen, wher
 - **Project1:** Tasked to analyze a dataset of movies and shows with Python and Pandas to showcase the highly rated programs from the Golden Age of television.
 - **Project2:** The task entails analyzing a modified Instacart dataset for insights into customer shopping habits, involving data cleaning, and addressing key questions.
 - **Project3:** Tasked to analyze 2018 data from 500 clients to determine whether the Surf or Ultimate prepaid plan generates more revenue, aiming to adjust the advertising budget accordingly.
+- **Project4:** The task involves performing a basic data analysis of Netflix to familiarize myself with `Streamlit` and the utilization of custom `modules`.
 
 ## Deployment
 
@@ -19,6 +25,13 @@ This project was completed using the `Visual Studio Code` editor. I utilized `An
 For your convenience, I have the **Jupyter Notebook** directly connected to a **Google Colab**. You can simply click on the **Google Colab** link to access and test each **Jupyter Notebook**. You can find the link in the upper left corner.
 
 **Note:** When using `Google Colab`, make sure to take note of the instructions and change the value for the import.
+
+### Deployment Resources
+
+The following links are videos you can watch if my project piques your interest and you want to try any of this for yourself.
+
+- This is for a [basic deployment.](https://www.youtube.com/watch?v=DA6ZAHBPF1U)
+- This one is for a more [advanced deployment.](https://www.youtube.com/watch?v=zulGMYg0v6U)
 
 ## Improvement
 
