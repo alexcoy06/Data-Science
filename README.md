@@ -17,6 +17,7 @@ I'm currently undergoing an intensive data science bootcamp with TripleTen, wher
 - **Project2:** The task entails analyzing a modified Instacart dataset for insights into customer shopping habits, involving data cleaning, and addressing key questions.
 - **Project3:** Tasked to analyze 2018 data from 500 clients to determine whether the Surf or Ultimate prepaid plan generates more revenue, aiming to adjust the advertising budget accordingly.
 - **Project4:** The task involves performing a basic data analysis of Netflix to familiarize myself with `Streamlit` and the utilization of custom `modules`.
+  - The Jupyter notebook for Project 4 can be found in the `notebooks` folder.
 
 ## Deployment
 
