@@ -2,7 +2,6 @@
 
 <!-- personal notes
 open markdown to the side: crt + k  v 
-Activate your environment: .venv\Scripts\Activate.ps1
 -->
 
 ![Golden Age](./src/img/golden-age.png)
@@ -18,6 +17,7 @@ I'm currently undergoing an intensive data science bootcamp with TripleTen, wher
 - **Project3:** Tasked to analyze 2018 data from 500 clients to determine whether the Surf or Ultimate prepaid plan generates more revenue, aiming to adjust the advertising budget accordingly.
 - **Project4:** The task involves performing a basic data analysis of Netflix to familiarize myself with `Streamlit` and the utilization of custom `modules`.
   - The Jupyter notebook for Project 4 can be found in the `notebooks` folder.
+- **Project5:** The task aimed to determine the marketing focus for the ICE online store, which sells video games globally.
 
 ## Deployment
 
