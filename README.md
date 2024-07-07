@@ -18,6 +18,9 @@ I'm currently undergoing an intensive data science bootcamp with TripleTen, wher
 - **Project4:** The task involves performing a basic data analysis of Netflix to familiarize myself with `Streamlit` and the utilization of custom `modules`.
   - The Jupyter notebook for Project 4 can be found in the `notebooks` folder.
 - **Project5:** The task aimed to determine the marketing focus for the ICE online store, which sells video games globally.
+- **Project6:** Tasked to analyze data to uncover insights that optimize ride-sharing services in Chicago by understanding passenger preferences and external factors.
+  - Practiced using SQL to organize data and perform group-by operations.
+  - Used the request module to parse data from a web source.
 
 ## Deployment
 
@@ -54,11 +57,5 @@ I have also deepened my understanding of Python. My code can now run seamlessly 
 ## Feedback
 
 I'm always eager to improve and welcome any feedback or suggestions you may have. Feel free to reach out to me via [email](mailto:alexcoy06@gmail.com), [LinkedIn](https://www.linkedin.com/in/alexander-coy/), or [GitHub](https://github.com/alexcoy06) to share your thoughts.
-
-### Connect with Me
-
-LinkedIn: [alexander-coy](https://www.linkedin.com/in/alexander-coy/)  
-GitHub: [alexcoy06](https://github.com/alexcoy06)  
-Email: [alexcoy06@gmail.com](mailto:alexcoy06@gmail.com)
 
 Thank you for visiting my portfolio! I hope you find my projects insightful and engaging.
