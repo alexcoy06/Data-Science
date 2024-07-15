@@ -12,15 +12,16 @@ I'm currently undergoing an intensive data science bootcamp with TripleTen, wher
 
 ## Repository Structure
 
-- **Project1:** Tasked to analyze a dataset of movies and shows with Python and Pandas to showcase the highly rated programs from the Golden Age of television.
-- **Project2:** The task entails analyzing a modified Instacart dataset for insights into customer shopping habits, involving data cleaning, and addressing key questions.
-- **Project3:** Tasked to analyze 2018 data from 500 clients to determine whether the Surf or Ultimate prepaid plan generates more revenue, aiming to adjust the advertising budget accordingly.
-- **Project4:** The task involves performing a basic data analysis of Netflix to familiarize myself with `Streamlit` and the utilization of custom `modules`.
+- **Project 1:** Tasked to analyze a dataset of movies and shows with Python and Pandas to showcase the highly rated programs from the Golden Age of television.
+- **Project 2:** The task entails analyzing a modified Instacart dataset for insights into customer shopping habits, involving data cleaning, and addressing key questions.
+- **Project 3:** Tasked to analyze 2018 data from 500 clients to determine whether the Surf or Ultimate prepaid plan generates more revenue, aiming to adjust the advertising budget accordingly.
+- **Project 4:** The task involves performing a basic data analysis of Netflix to familiarize myself with `Streamlit` and the utilization of custom `modules`.
   - The Jupyter notebook for Project 4 can be found in the `notebooks` folder.
-- **Project5:** The task aimed to determine the marketing focus for the ICE online store, which sells video games globally.
-- **Project6:** Tasked to analyze data to uncover insights that optimize ride-sharing services in Chicago by understanding passenger preferences and external factors.
+- **Project 5:** The task aimed to determine the marketing focus for the ICE online store, which sells video games globally.
+- **Project 6:** Tasked to analyze data to uncover insights that optimize ride-sharing services in Chicago by understanding passenger preferences and external factors.  
   - Practiced using SQL to organize data and perform group-by operations.
   - Used the request module to parse data from a web source.
+- **Project7:** The project demonstrates my understanding and use of Scikit-Learn.
 
 ## Deployment
 
