@@ -21,7 +21,8 @@ I'm currently undergoing an intensive data science bootcamp with TripleTen, wher
 - **Project 6:** Tasked to analyze data to uncover insights that optimize ride-sharing services in Chicago by understanding passenger preferences and external factors.  
   - Practiced using SQL to organize data and perform group-by operations.
   - Used the request module to parse data from a web source.
-- **Project7:** The project demonstrates my understanding and use of Scikit-Learn.
+- **Project 7:** The project demonstrates my understanding and use of Scikit-Learn.
+- **Project 8:** Tasked to build a predictive model using historical data to identify customers likely to leave Beta Bank, aiming to improve customer retention as it is more cost-effective than acquiring new customers.
 
 ## Deployment
 
