@@ -1,9 +1,5 @@
 # TripleTen Projects
 
-<!-- personal notes
-open markdown to the side: crt + k  v 
--->
-
 ![Golden Age](./src/img/golden-age.png)
 
 ## About Me
@@ -55,6 +51,10 @@ I added a plain test file that can be adapted to any programming language for ex
 
 5/19
 I have also deepened my understanding of Python. My code can now run seamlessly without needing to input different variables when loading CSV files, and the entire program can be executed in any environment, as long as the Internet is available.
+
+8/08
+While demonstrating how to complete Project 4 for another student, I refactored my code to improve its quality.  
+Note: To run streamlit cd in the correct folder `cd "Project 4"` and run `python -m streamlit run app.py`
 
 ## Feedback
 
