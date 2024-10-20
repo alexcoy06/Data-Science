@@ -21,6 +21,9 @@ I'm currently undergoing an intensive data science bootcamp with TripleTen, wher
 - **Project 8:** Tasked to build a predictive model using historical data to identify customers likely to leave Beta Bank, aiming to improve customer retention as it is more cost-effective than acquiring new customers.
 - **Project 9:** Tasked to determine the most profitable region for a new oil well by building a model that predicts reserve volumes, selecting the highest-value wells, and analyzing profit and risk using Bootstrapping on data from three regions.
 - **Project 10:** Tasked to develope a prototype machine learning model for Zyfra to predict gold recovery from ore based on extraction and purification data.
+- **Project 11:** Tasked with evaluating the use of Machine Learning to find similar customers for marketing, predict the likelihood and number of insurance benefits, and implement data masking to protect personal data without compromising model accuracy.
+- **Project 12:** Tasked to develope an app to estimate car market values by building machine learning models using historical data, with a focus on prediction accuracy, speed, and reduced training time.
+- **Project 13:** Task to predict Sweet Lift Taxi orders using historical data, aiming for an RMSE under 48 and utilizing the Prophet library for time series forecasting.
 
 ## Deployment
 
