@@ -62,6 +62,12 @@ I have also deepened my understanding of Python. My code can now run seamlessly 
 While demonstrating how to complete Project 4 for another student, I refactored my code to improve its quality.  
 Note: To run streamlit cd in the correct folder `cd "Project 4"` and run `python -m streamlit run app.py`
 
+12/20  
+I really enjoyed my last project and appreciated the feedback so much that I decided to keep the comments. Notably, I credited `ChatGPT` as one of my sources for writing better code. The day before, I realized not everyone knows how to use it effectively, so I wanted to share my approach. While I'm familiar with coding, I found PyLint less effective in Jupyter Notebooks and couldn't find a Python validation tool, like `https://validator.w3.org/`, that suited me. So, I learned to use ChatGPT. Simply pasting code or asking for refactoring can sometimes break it, leading to wasted time troubleshooting. To avoid this, I rely on two specific prompts depending on how determined I am to solve the issue. The importance of these prompt is that it catches syntactical errors, which are often my issues (missing special characters and letters):
+
+- Perform a static code analysis on the following Python code. Identify and list all issues in the code, explaining each issue in detail and suggesting appropriate fixes:
+- Perform a static code analysis on the following Python code. Identify and list all issues in the code, explaining each issue in detail and providing specific suggestions for fixing them:
+
 ## Feedback
 
 I'm always eager to improve and welcome any feedback or suggestions you may have. Feel free to reach out to me via [email](mailto:alexcoy06@gmail.com), [LinkedIn](https://www.linkedin.com/in/alexander-coy/), or [GitHub](https://github.com/alexcoy06) to share your thoughts.
